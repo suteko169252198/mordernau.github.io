@@ -1,0 +1,106 @@
+:Alexei, who had left Ivan's flat in a hurry, ran towards the school, the corridors of the college building seemed busier than usual.
+People hurried through the corridors, eagerly passing on information, but none of this was on Alexei's mind, all he wanted to do was to hurry up and find his mentor and tell him everything that had happened, and he was sure that his mentor would be the judge of that as to what the outcome would be. ;
+Alyosha ran through the corridors until he came face to face with a man in the doorway of his teacher's office, only to realise that it was none other than another of his mentor's students, Porferi.
+changeFigure:porerphili/normal.png;
+miniAvatar:alyosha/consult/serious.png;
+Alexei: (finally found an acquaintance, gotta tell my mentor everything quickly ......);;
+miniAvatar:alyosha/consult/serioustalk.png;
+Porphyry, have you seen Mentor Zossima?
+changeFigure:porerphili/speak.png;
+Porperphili:I was just looking for you, Alyosha, the tutor has something urgent for you, you need to get over there quickly.
+Alexei:Okay, where is he now?
+miniAvatar:alyosha/consult/sweat.png;
+changeFigure:porerphili/eyemove.png;
+Porperphili:......
+changeFigure:porerphili/speak.png;
+Come with me, I'm taking you there exactly as he requested, he's in the school's branch hospital now.
+miniAvatar:alyosha/consult/serioustalk.png;
+Alexei:Hey, does Mentor Zossima have a visitor to see today?
+changeFigure:porerphili/eyeclosedspeak.png;
+miniAvatar:alyosha/consult/serious.png.
+Porperphili:Alyosha, come with me... you'll know when you meet your teacher...
+But be prepared ......
+miniAvatar:none;
+changeFigure:none;
+changeBg:none;
+:Porfiry said no more, just signalled for Alexei to follow him.
+Alexei followed Porfiry to the school's hospital corridor.
+changeBg:hospitalcorridor.jpg;.
+Walking through the clean to somewhat cold corridor, they finally stopped in front of the door of a blue ward on the top floor of the hospital.
+An oddly unsettling feeling caused both men to be silent the entire way until they stopped in front of the door, and only then did Porphyry turn his head to look at Alexei, who stood with his head bowed behind him.
+Noticing the gaze from his senior, Alexei looked up quizzically, but Porphyry immediately turned his head away from him again and gently knocked on the door of the room in front of him.
+changeFigure:porerphili/speak.png;
+Porperphili:Teacher, you said you wanted to see Alyosha, and I finally met him at school.
+Zossima:Ah, Porperphili, thank you for bringing him, please come in.
+changeFigure:porerphili/normal.png;
+:Porperphili turns around, he dodges Alexei's quizzical look at him and just bows slightly, gesturing for Alexei himself to open the door to the room.
+changeFigure:none;
+:--
+changeBg:hospital.jpg;
+:-- The room was neat and silent, his teacher lying on his bed in the sick bay, looking towards the doorway.
+Perhaps it was to see his pupil that the doctor had temporarily removed any other equipment that blocked his vision
+and the face of the old man lying in bed showed a returning enthusiasm, with only a bottle of sling attached to his hand.
+The light from the window pours through the trees, framing Zossima's thin figure, a hunched body that suggests the old man has little time left to live.
+miniAvatar:alyosha/consult/worried.png;
+Alexei:Zossima Mentor ......
+changeFigure:porerphili/eyeclosedspeak.png;
+Porerphili:...... Sorry, teacher, I didn't tell Alyosha about this when I came.
+changeFigure:none;
+Zossima:It's okay, Porfiry.
+Please bother to come back when I am done with him, I still have some things to give you.
+For now, please give us some space.
+miniAvatar:none;
+Porphyry nodded respectfully and walked behind the door with a mournful look on his face, and after a soft thud of the door closing, only the two were left in the room.
+::At first Alexei dared not look at the old man on the sickbed with some descriptions of withered artemisia to identify with his mentor, and seeing his student's troubled appearance, the smile that had hung on Zosima's lips just after she saw Alexei appeared to be even gentler. ;
+changeFigure:zossima/ill/normal.png;
+Zossima:Please come and sit at my bedside, Alyosha, it seems like a long time since I blessed you.
+changeFigure:none;
+changeBg:illustration/illness.jpg;
+:Alexei slowly walked forward, but instead of sitting on the chair in front of the hospital bed, he flung himself at his mentor's heels and bowed his head to hold his mentor's dry palm and kissed both hands.Alexei raised his eyes, and Zosima instantly noticed that his pupil was holding back tears in his eyes.
+Zossima:Your eyes are still the same as they were when I first saw you in church.
+These eyes so like those of a little child.
+But now they are full of sadness and melancholy.
+I have told thee to be ready, have I not, and indeed I have lived long enough on earth to be able to call thee to the bed at this time.
+I am happy to call you to my bed at this time.
+Alexei:Mentor ......
+I'm sorry.
+I can't let go of you .......
+Zossima:Alyosha.
+What are you so sad about?
+Alexei:Not only because of you ......
+changeBg:hospital.jpg;
+changeFigure:zossima/ill/normal.png;
+miniAvatar:alyosha/consult/closedeyeworried.png;
+And maybe Ivan, too.
+I failed you on this one ......
+changeFigure:zossimaill/speak.png;
+miniAvatar:alyosha/consult/worried.png;
+Zossima: That's exactly what I wanted to tell you when you came here.
+How is Ivan doing?
+Zossima:Mr Parsee told me that last night he seemed to have the same symptoms as last time, I think. ;changeFigure:zossima
+changeFigure:zossima/ill/normal.png;
+miniAvatar:alyosha/consult/closedeyeworried.png;
+Alexei:......
+(I'm sorry Mentor Zossima, please forgive my cowardice, could I not tell you now what happened ......)
+Ivan he ......
+He's in bad shape ......
+I'm sorry, but I don't think I've been able to guide him.
+I think I not only failed to guide him, but pushed him towards even more extreme self-destruction ......
+miniAvatar:alyosha/consult/worried.png;
+changeFigure:zossima/ill/speak.png;
+Zossima:It's common for visitors to develop this mentality in the course of therapy,;;
+Whereas for Ivan, his refusal and blocking was more of a mere disguise, .
+I think you're getting close.
+It is common to be alarmed as we get more in touch with a person's heart, especially those who make a request for counselling, which is more complex and difficult ......
+I have transferred the supervision to Patsy.
+He will be responsible for following up all your supervisory work.
+You must remember to follow his teachings.
+changeFigure:zossima/ill/smile.png;
+If you find the counselling untenable, you have the right to withdraw from the programme as an internship, but before doing so, you must remember not to make yourself regret it later.
+If your innocence is at a loss or shaken by this, you are too late to be put down in my heart, go to your visitor, God has naturally set a destiny for me, but before I close my eyes, I will not forget the place you and he have in my heart, go, Alyosha.
+changeFigure:none;
+miniAvatar:none;
+: The master and pupil sat looking at each other in silence, and Alexei, first unable to hold on to this heavy atmosphere of farewell, kissed his mentor's hands, got up and hurried away.
+When he stepped out of the door of his mentor's hospital room, the tears that he had been holding back in his eyes finally fell without stopping.
+changeBg:none;
+changeScene:5.2.txt

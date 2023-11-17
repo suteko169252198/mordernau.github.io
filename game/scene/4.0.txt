@@ -1,0 +1,173 @@
+:Two months later ......;
+The Academy had given Ivan plenty of time to rest, and in that time, Alexei hadn't had any more incidents of harassment as strange as the one he'd had at the community center last week, and he'd finally gotten a bit of time to completely relax and rest.
+During this time, Alexei organizes the contents of his first few consultations with Ivan.
+miniAvatar:alyosha/consult/think.png;
+Alexei:Ivan's previous counseling sessions were mainly about his current situation, and he said very little about his family.
+However, during the fifth counseling session I pushed him to talk a little bit about his mother, and he mentioned the passing of our mother.
+Ivan kept staring at me warily during the conversation, seemingly revealing a look of anticipation and concern, there must be something hidden that I didn't know about ......
+miniAvatar:none;
+changeBg:illustration/memory1.jpg;
+I have very few memories of my mother, the only image I remember is her taking me to church when I was a kid, but I can't remember the whole thing.
+For some reason all I remember is the scene of her standing at the front of the church facing the icon, she must have been a very gentle person...
+It's quite a holy scene in my mind and the main reason why I'm now religious.
+changeBg:none;
+Then my mother died, and I was so ignorant that I was sent directly to the home where I had previously been placed in foster care, and that's probably how I was separated from Ivan.
+The part of Ivan's narration is not too different from my memory ...... Perhaps his attitude when he narrated it is more concerning to me.
+Ivan also said something about his father last time...
+changeBg:illustration/memory4.jpg;
+A year ago, our father also died, rumored to be a combination of excessive drinking and old age, and that's how misfortune happens.
+changeBg:illustration/memory3.jpg;
+But for some reason, the police always believed that his father's death was man-made, however, the subsequent investigation did not have more clues, and with the principle of more is better than less, the current outcome of this case was thus characterized as an accidental death.
+That was also the time when Ivan said he was having mental health problems.
+Ivan said that he had stayed at the school lab that day, and that he only found out the news a day after his father's death, after all, they didn't live together anymore.
+The police still tangled with him for a few days in order to investigate, but then realized that he had absolutely nothing to do with the incident, and ruled him out completely.
+changeBg:none;
+miniAvatar:alyosha/consult/think.png;
+I don't think there's anything wrong with this part, after all, Ivan he doesn't have to lie or hide about such common sense things, right?
+There's one strange thing though, when he narrates it, his attitude doesn't seem quite as natural as when he narrates about his mother's affairs.
+He narrated it as if he was still troubled by something, but according to what he said, the whole thing had nothing to do with Ivan at all, so why did he not want to tell me about it so much? ......
+Maybe there's some details in there that I'm overlooking.
+Next time I'll definitely try to proceed in the direction of the reason for this.
+miniAvatar:none;
+:And so the time came for Alexei's sixth counseling session with Ivan. ;
+changeBg:consultingroom.jpg;
+miniAvatar:alyosha/consult/normalmouthopen.png;
+Alexei:This is our sixth consultation, and you're looking in good shape today, Ivan.
+changeFigure:Ivan/shirtoff/normalsmile.png;
+Ivan:Thanks to the monitors, I'm having a really healthy day these days.
+Alexei:...... Alas, it can't be helped, and they'll be relieved to confirm your safety.
+changeFigure:Ivan/shirtoff/normal.png;
+Ivan:They're also just going to make sure I'm still in the right state of mind to continue with the subject matter.
+miniAvatar:alyosha/consult/serious.png;
+Alexei:Anyway, we talked about our parents in the last consultation, would you like to continue from there today, Ivan?
+Ivan:We already talked about the mother thing last counseling, and you already know that, don't you.
+Alexei:Well, I really don't remember much about our mother though, after all, I was very young when she died.
+changeFigure:Ivan/shirtoff/normalmouthopen.png;
+Ivan:She died of starvation due to anorexia.
+Alexei:......
+That I really didn't know, I'm sorry.
+Ivan:You don't have to apologize.
+It's normal for you not to know.
+Alexei:So can I know now, Ivan?
+Ivan:......
+changeFigure:Ivan/shirtoff/think.png;
+Since you want to know ......
+changeFigure:Ivan/shirtoff/normalmouthopen.png;
+You should not remember what our father was like ...... This is probably why you don't know these things.
+Alyosha, mother she was mad then, she went to church and prayed daily, but the madness didn't get better, I saw how my mother was driven mad by my father, and that's why she gave birth to you, you know?
+miniAvatar:alyosha/consult/worried.png;
+Alexei:......
+Ivan, please go on.
+Ivan:Actually, it's not quite accurate to say that she was anorexic, after all, she was in such a state of delirium that she couldn't even care about eating, and that's how she died in our old house, don't you remember, Alyosha.
+miniAvatar:alyosha/consult/closedeyeworried.png;
+Alyosha:Ivan, I'm sorry to see that I'll make you think of those things, I guess ......;
+miniAvatar:alyosha/consult/worried.png;
+Ivan:No, I'm glad to see you living such a healthy life, ;
+Keeping you away from these things is for the best.
+changeFigure:Ivan/shirtoff/biyanzhangzui.png;
+For many people don't care about other people, whether it's those in their neighborhood or those they love.
+They say they care about them, but in reality, how much are they worth in their own hearts?
+It's just a neighbor's love.
+What does the life of my neighbor matter to me. A lot of people think that way.
+I went to my mother's funeral after she died. She didn't have many relatives, so it was a sad scene.
+Then our father came, he didn't say a word, just put a bunch of flowers on the grave and left, and at the time I was ridiculously relieved that he had at least shown some respect for it.
+That night, though, he started drinking again, and new prostitutes beckoned to his door.
+I don't think I'll ever get over something like that.
+changeFigure:Ivan/shirtoff/zhoumei.png;
+You know, Alyosha.
+When I think that I am living while many such people are living, and that another part of the population is suffering because of them and dying because of them.
+I then feel that I cannot live in peace and health, that I cannot be peaceful, that I must be twisted and sickly, that I must suffer as much as they do.
+Can you enjoy happiness alone, Alyosha?
+miniAvatar:alyosha/consult/closedeyeworried.png;
+Alexei:Of course I can't.
+miniAvatar:alyosha/consult/serioustalk.png;
+But, Ivan, it's all right, because when you die, there will still be a lot of people alive and unharmed.
+Ivan:So Alyosha, do you think a lot of people should live, wouldn't they be better off dead?
+Alexei:If you want to hear what I think:
+No one is born deserving of death, but the many temptations and trials of the world lead many to such a path.
+changeFigure:Ivan/shirtoff/yinxianxiaoputong.png;
+:(An unhealthy look of excitement surfaces on Ivan's face)
+changeFigure:Ivan/shirtoff/normalsmile.png;
+Ivan:So according to you, according to the behaviour of those people, a lot of the world is and its damned.
+miniAvatar:alyosha/consult/worried.png;
+Alexei:......
+Maybe that's true.
+Ivan.
+But I have a question for you.
+Ivan:Please do, Alyosha.
+miniAvatar:alyosha/consult/serioustalk.png;
+Alexei:Our father's alcoholism.
+Ivan, anorexia I don't know, but I think I remember you telling me before that you had a serious drinking problem before.
+You just said that a lot of the world is and its damned.
+Was that in reference to your father?
+changeFigure:Ivan/shirtoff/zhoumei.png;
+Ivan:......
+No.
+I don't know ......
+miniAvatar:alyosha/consult/worried.png;
+Alexei:Do you think you deserve to die as much as your father, Ivan?
+changeFigure:Ivan/shirtoff/nanshou.png;
+Ivan:No.
+no.
+You think right, Alyosha.
+I was talking about me, Alyosha.
+miniAvatar:alyosha/consult/closedeyeworried.png;
+Alexei:Ivan, Ivan, you're not wrong and you don't deserve to die.
+Thank you for still being alive.
+Ivan, as I recall, our father's death was an accident.
+Please tell me do you think you had something to do with your father's death ......
+changeFigure:Ivan/shirtoff/nanshoubizui.png;
+Ivan:Maybe, I don't know ......;
+Maybe in my heart I never forgave him.
+Alexei:Please tell me what you haven't been able to forgive him for.
+Ivan:Alyosha ......
+I'm sorry, I've actually already told you .......
+Alexei:About the mother?
+miniAvatar:none;
+changeFigure:none;
+changeBg:illustration/memory2.jpg;
+Ivan:Mother's, yes.
+And mine.
+Yes, I told you the answer to this question from the first consultation ......
+I'm sorry in which way I told you ......
+I'm sorry, I'd still rather you forget.
+Alexei:......
+So that's ......
+Ivan.
+But that was when I was very young ......
+Alexei:......
+Ivan.
+Are these the contents of your hallucinations?
+Ivan: Maybe. There was a time when I was forced to immerse myself in those hallucinations every night.
+I thought I'd outgrown them.
+But I'm sorry, but the whole story about my mother and father is just a story.
+It's better that you don't know these things.
+ALEXANDER.
+No, now that you've said it, I can't let those details go.
+You'll feel better if you tell me sooner, Ivan.
+Ivan:Don't push me, I'd rather you didn't know about it than not.
+Don't you understand.
+I'm just testing you and torturing you with these words.
+From the first sentence that's all. ......
+You're smart, you know what I mean by my words ......
+Alexei:Ivan, it doesn't matter what you say to me.
+Did you used to think about all this all the time?
+But you're still torturing yourself with these things?
+Do you still think you're not worth living?
+changeBg:illustration/memory2(1).jpg;
+Ivan:......
+changeBg:consultingroom.jpg;
+miniAvatar:alyosha/consult/worried.png;
+changeFigure:ivan/shirtoff/nanshoubizui.png;
+:Ivan didn't respond, just quietly lowered his head to look at his twisted hands, not daring to look at Alexei's gaze with interrogation and pity.
+Time went on like this for a long while in silence, and then it was interrupted by a tight ringing bell, the first time both of them had heard in silence, a crisp ringing bell reminding them that the time for counselling was over.
+Ivan looked up and saw that Alexei had stood up and was looking at himself with a worried gaze.
+miniAvatar:alyosha/consult/closedeyeworried.png;
+Alexei: (sighs)
+So that's it for today, then.
+Ivan, please be sure to let me know if you have anything.
+Please be sure to let me know that you remembered my number.
+miniAvatar:none;
+changeFigure:none;
+changeBg:none;
+changeScene:4.1.txt

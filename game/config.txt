@@ -1,0 +1,5 @@
+Game_name:mordernauenglish;
+Game_key:6796dd8ed392fdc;
+Package_name:;
+Title_bgm:s_Title.mp3;
+Title_img:title.jpg;

@@ -1,0 +1,92 @@
+changeBg:consultingroom.jpg;
+changeFigure:Ivan/shirtoff/normal.png;
+???: Hello;
+miniAvatar:alyosha/consult/normalmouthopen.png;
+Alexei: Hello, this is our first meeting. After each consultation, I will record the time. The content of the consultation will only be known to me, you, and Zosima, who is supervising this consultation, as previously agreed and informed to you.
+Alexei: If you have any questions about the process during the consultation, please let me know. I'll consider and relay them accordingly.
+???: Not at the moment, thank you for letting me know.
+Alexei: Shall we start our first consultation then? You can call me Alyosha. How should I address you?
+changeFigure:Ivan/shirtoff/normalsmile.png;
+Ivan: You can call me Ivan. I'm pleased to meet you, Alyosha.
+Alexei: Alright, Ivan. For our first meeting, I'll gather detailed information about your personal situation, symptoms, and how your current condition is impacting your life. After that, I'll assess what you've described and proceed with further consultations.
+Ivan: Alright, thank you. Where should I start? You've probably seen my file, and I assume you don't need to hear it all over again.
+Alexei: That's okay. There's no concept of wasting time during the consultation process. Please, go ahead and describe it again.
+changeFigure:Ivan/shirtoff/normalmouthopen.png;
+Ivan: Well, as mentioned in your file, I'm your biological older brother. However, my memory of you only goes back to when you were eight years old, and we were separated. So, our understanding of each other is quite limited.
+Ivan: You don't need to feel anything special just because we're blood-related.
+Ivan: Our parents, I suppose, need no introduction. Currently, due to a mental illness, I'm on leave from school. Before consulting with you, several psychologists diagnosed my condition as schizophrenia, while others suggested bipolar disorder or severe depression.
+Ivan: However, I don't quite believe them, and their treatments, both physical and mental, seem limited in their effectiveness.
+Ivan: Choosing you for this consultation was a personal request. I wonder if you can help with the illness I'm suffering from.
+changeFigure:Ivan/shirtoff/normal.png;
+Alexei: Alright, thank you. I understand all of this. Could you describe your current situation in more detail?
+changeFigure:Ivan/shirtoff/normalmouthopen.png;
+Ivan: This information is in the file, do you still need me to explain it in detail?
+Alexei: Yes, hearing it directly from you will differ from reading it in the document. It's helpful for the progress of our consultation. Please, go ahead.
+Ivan: About one or two months ago, I began experiencing symptoms like dizziness, nausea, hallucinations, etc. My emotions have been unstable as well. The occurrences aren't predictable; sometimes it happens once a week, and other times I might feel heavy-headed for several consecutive days. I'm unaware of what I do during those times, but I doubt it's anything good.
+Alexei: I noticed you mentioned frequently experiencing hallucinations. What kind of hallucinations do you usually see?
+Ivan: Various ghosts.
+Alexei: Can you describe specifically how these ghosts look?
+Ivan: There are people I know and others I don't. Some are familiar, some aren't. Once, I even thought I saw a passerby I had bumped into on the street.
+Alexei: So, among these familiar ghosts, are many of them deceased?
+Ivan: People die, that's a fact of life.
+Alexei: Nevertheless, these names must hold significance.
+Ivan: Indeed, but in the hallucinations, the figures are mostly dark, almost indistinguishable. However, I can recognize who they represent by their names.
+miniAvatar:alyosha/consult/seriousmouthopen.png;
+Alexei: Without specific visual traits, how do you discern these individuals?
+changeFigure:Ivan/shirtoff/normalsmilemouthopen.png;
+Ivan: Perhaps my intuition tells me who they are before my rational judgment does.
+changeFigure:Ivan/shirtoff/normalsmile.png;
+Alexei: Can you tell me their specific names?
+changeFigure:Ivan/shirtoff/closedeyesmile.png;
+Ivan: Sorry, I prefer not to speak much about the hallucinations.
+Alexei: Alright. I also wanted to ask, among these, do your father and mother appear?
+changeFigure:Ivan/shirtoff/normal.png;
+Ivan:...
+changeFigure:Ivan/shirtoff/think.png;
+Ivan:...
+changeFigure:Ivan/shirtoff/normalmouthopen.png;
+Ivan:... Did you already know about father's passing?
+Alexei: I'm sorry, I learned about it from the information provided by your school. As your counselor, I feel sorrow and regret about your father's death.
+Alexei: So, Ivan, how do you feel about your father's passing?
+Ivan: I'm not keen on discussing my views on my father's death, and I don't think I need to explain much. If you've seen the file, you'd know he died from alcohol poisoning due to excessive drinking. I wasn't at home that day, so I received the news of his death about two to three days later.
+Alexei: I'd still like to hear your feelings in your own words. Are you sad about it?
+Ivan: I am indeed sad; after all, he was my father.
+Alexei: But your tone describing your father's death seemed the calmest I've heard while describing the passing of a loved one.
+changeFigure:Ivan/shirtoff/closedeyesmile.png;
+Ivan: Often, many emotions don't show outwardly. I'm not pleased about my father's passing either.
+Alexei: I see...
+Alexei: (From Ivan's narration, I sense a feeling of relief and reassurance, perhaps some other emotions as well. But in this situation, it might not be appropriate to inquire too deeply.)
+Alexei: You mentioned before that among your hallucinations, there are people you know.
+changeFigure:Ivan/shirtoff/normalsmilemouthopen.png;
+Ivan: Yes.
+Alexei: Sorry, I just want to confirm, does this include your recently deceased father?
+changeFigure:Ivan/shirtoff/normal.png;
+Ivan:...
+changeFigure:Ivan/shirtoff/tanqi.png;
+Ivan: Unfortunately, father does occasionally appear in my hallucinations. But after all, they are hallucinations; anyone can appear in them.
+Alexei: Could you describe how your father appears in your hallucinations?
+Alexei: Sorry, the previous description was rather vague.
+changeFigure:Ivan/shirtoff/violencesmile.png;
+Ivan: Alyosha, how do you think a deceased person would appear in someone's hallucination?
+Alexei: If I were to speculate...
+Alexei: ?!
+changeBg:none;
+changeFigure:;
+Ivan suddenly leaned in, not even waiting for the counselor to finish speaking, grabbing their hand. Due to inertia, Alyosha fell backward, their arms pressed down onto the sofa. In a moment of dizziness, they realized Ivan had completely pinned them down on the couch.
+miniAvatar:alyosha/consult/panic.png;
+Alexei: !!! Ivan?!
+miniAvatar:none;
+changeBg:illustration/1.jpg;
+: Ivan suddenly came close enough to catch his hand without even hearing the counselor's words, and due to inertia, Alexei fell backwards, both arms then pinned to the couch, and in a moment of dizziness, he realized that Ivan had pressed himself completely against the couch. ;
+miniAvatar:alyosha/consult/panic.png;
+Alexei:!!! Ivan?
+miniAvatar:none;
+changeBg:illustration/1.jpg;
+:yet Ivan didn't answer, just brought his lips together with his eyes closed...
+:Dazed and confused, Alexei felt his tongue completely entangled and caught by Ivan...
+:And his hand was reaching for his backside, his fingertips gradually sliding down the bulge of his back spine into the waist of his pants, and finally all the way down the crack of his ass. His other hand was unbuttoning his shirt, one by one, and finally the belt around Alexei's waist...
+:As the clothing used to cover the counselor's body was unbuttoned, Ivan's hand finally reached into Alexei's loose pants and took his sex into his hand to play with it.
+:Alexei's cheeks reddened with shame as he realized what this man before him was about to do to him. He shook Ivan's shoulders gently with his hand, trying to dissuade an action so out of place in this scenario, the
+changeBg:none;
+:But when Alexei looked down, he realized that the man in front of him had a look of ecstasy overflowing in his eyes, and was licking his collarbone that was exposed through the slit in his shirt, despite his shame-filled face. ;
+choose:do nothing:1.1.txt|cries out for help and tries to push Ivan away:1.2.txt ;

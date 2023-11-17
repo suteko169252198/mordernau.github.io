@@ -1,0 +1,138 @@
+:After a slow footstep, the sound of a doorknob turning followed in the hallway, and Alexei looked up, placing the notes he was organizing on the coffee table.)
+An unfamiliar man entered the room, he had permed curly hair and wore suit pants with a hot stiff shirt and leather shoes polished in an overdressed defiant way.)
+changeFigure:pavel/normal.png;
+???? :You are Alexei?
+miniAvatar:alyosha/consult/normalmouthopen.png;
+Alexei:Yes, I'm Alexei Karamazov, is this the counseling appointment you made?
+???? :Ah, counseling?
+Oh yes, it was me who made the appointment.
+Alexei:Ok good, thank you so much for coming in, may I ask how should I address you?
+???? :Isn't it written above the information about my appointment, are you pretending you can't read?
+Alexei:So you are Mr. Sxoljakov?
+changeFigure:pavel/smoke.png;
+???? : ...you might as well call me Pavel.
+miniAvatar:none;
+changeFigure:none;
+changeBg:none;
+:The visitor looked at Alexei silently, and after a moment of silence, walked over to the couch with a suspicious look on his face, without sitting down.
+changeBg:consultingcenter1.jpg;
+changeFigure:pavel/normal.png;
+miniAvatar:alyosha/consult/normalmouthopen.png;
+Alexei:Pavel, you can sit down.
+Pavel:No need.
+Alexei:Okay, but usually counseling goes on for an hour, Pavel, please ......
+Pavel:There are no windows here?
+Alexei:Yes, but there are ducts for the ventilation system in the ceiling, and there is an air conditioner inside the room, so hopefully the clutter from these appliances won't bother you.
+Pavel:I heard the man at the door say there are forms for me to sign right?
+Alexei:Yes, this is our consent form for this consultation, Mrs. Younger mentioned it to you during the initial interview, but procedurally I have to say it again:
+We will have eight counseling sessions to follow, and you can ask to discontinue at any time in the middle of the session;
+If necessary, you can request an extension to twelve sessions. Our conversation will be confidential throughout, and I will only make a few personal notes on the process, which will not be published or made available to others unless I have your permission, and will be destroyed after three years.
+Pavel:Why so many times, once is enough.
+And you said the whole conversation was confidential.
+So Ivan won't know?
+Alexei:I don't know who you're talking about, but rest assured that no one but the two of us will know.
+changeFigure:pavel/talk.png;
+Pavel:It is Ivan Fedorovich Karamazov.
+miniAvatar:alyosha/consult/amazed.png;
+Alexei:!
+......
+miniAvatar:alyosha/consult/panic.png;
+Are you talking about my brother Ivan? Do you know him?
+Pavel:...... ;
+Oh?
+changeFigure:pavel/smile.png;
+Heh.
+Why are you so surprised?
+We're old friends. I'm the one who takes care of him every time he gets drunk.
+changeFigure:pavel/smoke.png;
+Hasn't he told you anything about me?
+miniAvatar:alyosha/consult/think.png;
+Alexei:......
+miniAvatar:alyosha/consult/normalmouthopen.png;
+No yet, but thanks for taking care of him, Pavel.
+Pavel: He passed out one night last week, don't you remember?
+miniAvatar:alyosha/consult/sweat.png;
+Alexei:...... sorry ......
+changeFigure:pavel/bigsmile.png;
+Pavel:That was last Wednesday, wasn't it? We talked on the phone, don't you remember anything?
+Alexei:......
+miniAvatar:alyosha/consult/panic.png;
+!
+So it was you who answered the phone that time, thank you so much for taking care of him.
+changeFigure:pavel/smoke.png;.
+Pavel:taking care ....... ;
+changeFigure:pavel/bigsmile.png;
+Hahahahaha, Ivan sure is hard to serve then.
+He really didn't mention me to you at all?
+miniAvatar:alyosha/consult/sweat.png;
+Alexei:...... ;
+I'm sorry, Pavel, this is really the first time I've seen you yet.
+Pavel:hmmm ;
+changeFigure:pavel/closedeyesmile.png;
+Pavel:Hasn't he told you that he likes his asshole fucked by my cock every day? ;
+miniAvatar:alyosha/consult/sweatshy.png;
+Alexei:what ......;
+changeFigure:pavel/bigsmile.png;
+Pavel:Do you know that the day you called, his pussy was clamping down on my cock, as soon as he heard your voice he instantly clamped me down tighter than ever before, I couldn't hold back for a second, I had no choice but to cum all over his juicy batch.
+miniAvatar:alyosha/consult/veryshy.png;
+Alexei:......
+Pavel:Does he like to call you Alyosha.
+That's right, for your information.
+"Alyosha, Alyosha", that's what I called him when I fucked him after you hung up. His mouth was watering down there, but by then he was so fucked up that he couldn't answer. Alyosha, do you know what your brother's favorite thing to do in bed is?
+miniAvatar:alyosha/consult/sweatshy.png;
+Alexei:right no ......
+Pavel:His favorite thing to do is to call your name while getting fucked, if I hadn't actually fucked him in bed I couldn't believe that your brother wants someone to fuck him more than any other bitch, oh yeah, and another thing he likes is to suck my cock.
+miniAvatar:alyosha/consult/shytalk.png;
+Alexei:......
+......
+Sorry for the trouble my brother ......
+Trouble for you.
+......
+Is there anything else you need advice on?
+miniAvatar:alyosha/consult/sweatshy.png;
+changeFigure:pavel/talk.png;
+Pavel:The counseling thing is a no.
+I just wanted to give you a little advice, Alyosha.
+The next time Ivan asks you to fuck him, you better slap his ass.
+Tell him to stand out on the street and solicit for johns.
+changeFigure:pavel/bigsmile.png;
+Otherwise, there's just no way we can satisfy his squirting mouth down there with just the two of us.
+Bye bye, you better watch out for your brother or tell him to mind his asshole.
+Alexei:......
+miniAvatar:alyosha/consult/shytalk.png;
+Pavel, I am very sorry that this happened and as his brother I apologize.
+May I ask if you know if he has suffered any major blows?
+changeFigure:pavel/smoke.png;
+Pavel:Ah, I don't know, he was already like that long before I met him, sexually active as hell.
+He's just pretending on the outside.
+changeFigure:pavel/normal.png;
+miniAvatar:alyosha/consult/panic.png;
+Alexei:I'm not talking about the sex life thing, I mean his mental side of things.
+Did you know that Ivan is in a very bad mental state right now, it is entirely possible that he doesn't know what he is doing.
+changeFigure:pavel/suspect.png;
+Pavel:Huh?
+Are you defending your brother?
+I have little interest in your brother's shit, what business is it of mine what his mental state is?
+Besides, I see he's having fun making love to me, huh?
+miniAvatar:alyosha/consult/shytalk.png;
+Alexei:......
+Pavel.
+I'm very sorry about the sexual aspect of Ivan's life.
+But in Ivan's condition, he may not even realize he did those things, and I'm sure you wouldn't want to see Ivan's symptoms progress beyond his control.
+So if Ivan he develops any special circumstances, please do let me know and I will help him.
+changeFigure:pavel/closedeyesmile.png;
+miniAvatar:alyosha/consult/sweatshy.png;
+Pavel:Alexei, you're really overdoing it on the sympathy front here.
+I'll play up a little of my certainly not as abundantly benevolent mind as yours, and I'll tell you what.
+I suggest you stay out of this, and that your brother just let him fend for himself.
+He deserves it.
+miniAvatar:none;
+changeFigure:none;
+::The man got up quickly from the couch and left without looking back, as if there was a lot of dirt in the room and he couldn't wait to get out of there, leaving Alexei in the room to continue to think about what he said.
+miniAvatar:alyosha/consult/shytalk.png;
+Alexei: (It's too strange to run into something like this today ......)
+(I don't know if Pavel's words are really believable, but I don't think it's a good idea to dwell on the visitor's private life so much ......) I'd rather not think about it, it's probably a fake, right?) I don't know if it's true or not.
+miniAvatar:none;
+changeFigure:none;
+changeBg:none;
+changeScene:4.0.txt

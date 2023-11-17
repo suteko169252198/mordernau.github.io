@@ -1,0 +1,87 @@
+changeBg:socialcenter.jpg;
+miniAvatar:alyosha/novice/sweatsmile.png;
+Alexei:Finally, I'm on fire from the Morning Prayer side!
+I'm glad I'm not late today... great, great.
+I haven't changed out of my friar's uniform yet though, so I'll find a chance to change out of it later.
+changeFigure:kids.png;
+?? :Brother Alyosha!
+???? :it's Brother Alyosha!
+miniAvatar:alyosha/novice/smile.png; ?
+Alexei:Why are you guys here, waiting to pick me up so early? ;
+Kids:Why is my brother wearing a black robe this time?
+miniAvatar:alyosha/novice/eyeclosedsmile.png;
+Alexei:I came in such a hurry that I didn't have time to change my clothes in the middle of the day.
+I'll do it later. Did I scare you?
+Kids:The black robe is so big, I feel like I can hide in it during hide-and-seek!
+changeFigure:lisa/smile talk.png;?
+changeFigure:lisa/smile talk.png; ? :Are you guys bullying Alyosha again?
+miniAvatar:alyosha/novice/suprised.png;?
+Alexei:!!!!
+changeFigure:lisa/smiletalk.png;
+Lise! What brings you here today. Seems like it's been a long time since I've seen you
+miniAvatar:none;
+changeFigure:none;
+changeBg:none;
+changeBg:illustration/Socialcenter.jpg;
+Lise:I happened to be on my way to a friend's house, so I came by to see if I could run into you... looks like you've got a lot going on today too, huh?
+Yikes, why haven't you even changed your robe?
+:(The children hid behind Alyosha)
+Alexei:Haha, I had a particularly early appointment today, so I had no choice but to rush over early.
+Lise:Why don't you guys excuse yourselves, I want to talk to Allyson alone~
+If you go away now, I'll give you candy later.
+Kids:Yes----
+:(kids leave)
+changeBg:socialcenter.jpg;
+changeFigure:lisa/smile.png;
+miniAvatar:alyosha/novice/smile.png;
+Lise:I hope the people coming to counseling don't upset you too much~
+Alexei:I hope so, but the counseling affairs over here are still much easier than the ones over at the school.
+changeFigure:lisa/smiletalk.png;
+Lise:How's your internship at school going.
+Alexei:It's actually pretty slow because it's my first internship ......
+Lise:Are you having a hard time dealing with your visitors?
+Alexei:According to the counseling agreement, I can't disclose information about my visitors.
+changeFigure:lisa/smileeyeclosed.png;
+Lise:But I know who your visitor is... it's your brother, isn't it?
+miniAvatar:alyosha/novice/suprised.png;
+Alexei:!
+miniAvatar:alyosha/novice/sweatsmile.png;
+Lise, I was just talking about this ...... How did you know?
+Lise:My mother told me, she probably heard about it from a student she befriended, who would be which one of your brother's classmates.
+Alexei:Is that so ....... I can't believe he told this story ...... But forgive me, Lise, if you ask again I won't answer ......
+changeFigure:lisa/speakingnormal.png.
+Lise:Don't worry, I'm not really interested in your brother, and I know you two don't seem to know each other very well either.
+But pardon me for saying so, I don't like that brother of yours either
+miniAvatar:alyosha/novice/sweattalk.png;
+Alexei:Huh, Lise, did you know him before?
+Lise:Can't say I knew him, just heard some things about him before.
+miniAvatar:alyosha/novice/sweat.png;
+changeFigure:lisa/speakingeyemove.png;
+Do you remember that neighborhood on the west side, a year ago when I hadn't moved with my mother yet, there was a pretty big thing going on over there at the church that was there.
+His father got into an argument with a priest inside that church, and people said that he just stood by and watched and didn't say anything.
+He said that afterward he asked the priest to confess on his father's behalf, but it seems that the two of them didn't say a few words, and they saw him leave the church without looking back, but the priest still felt guilty about the incident.
+I know he's not a believer, so it's kinda weird to go to church.
+miniAvatar:alyosha/novice/sweatsmile.png;
+Alexei:How is it that you know my brother better than I do? Do you even believe such rumored words?
+changeFigure:lisa/speakingnormal.png;
+Lise:I'm just telling you the gossip I heard from my mother ......
+I know you used to be so busy with your studies that you weren't very aware of these things yet.
+Because that case of your father's was a big deal for a while, and wasn't there never a murderer in that case?
+My mother was interested in that case for a while, so she just asked a few more questions of random people, that's all, right?
+miniAvatar:alyosha/novice/sweat.png;
+Alexei: (Is it surprising that asking a few more random questions makes you know more than even I do?)
+:(Someone from the other end of the hallway calls Alexei's name, interrupting the two)
+miniAvatar:alyosha/novice/eyemove.png;
+changeFigure:lisa/smile.png;
+Lise:Ah, listen, I think Mrs. Younger is calling you.
+Looks like you've got a busy day ahead of you, in which case I'll be off.
+changeFigure:lisa/smileeyeclosed.png;
+miniAvatar:alyosha/novice/smile.png;
+Next time, I'll invite you over to my place for dinner~
+changeFigure:;.
+:Lise left.
+miniAvatar:none;
+changeBg:none;
+Somewhat puzzled, Alexei changed out of his robes and entered the community center's consulting room, ready to greet this morning's visitors.
+changeBg:consultingcenter.jpg;
+changeScene:3.1.txt

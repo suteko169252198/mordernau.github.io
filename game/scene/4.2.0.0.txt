@@ -1,0 +1,112 @@
+The next morning ......
+miniAvatar:alyosha/consultglassesoff/think.png;
+Alexei:8 o'clock ...... It's still relatively early ......
+(glances at Ivan)
+Sleeping quite well ......
+:Alexei probes Ivan's nostrils and checks for injuries from last night.
+Alexei:It's probably not a big deal, ;
+So it feels like I'm good to go then?
+It was too late yesterday to report to my mentor ......
+This time, I must tell my mentor everything ...... No matter what ...... can't hide it any longer.
+......
+miniAvatar:alyosha/consultglassesoff/worried.png;
+It feels better to wait for Ivan to wake up before I leave ......
+miniAvatar:none;
+changeBg:none;
+changeBg:morningIvanlivingroom.jpg;
+miniAvatar:alyosha/consult/think.png;
+Alexei:I don't know what to do, Ivan's room has quite a lot of books ...... but I don't really dare to touch his stuff either ......
+It's good to sit here and take a look at the materials I brought with me, and in the meantime organise what I'm going to report to Mentor Zosima ......
+miniAvatar:none;
+:Alexei sat down in the living room and read the report ......
+......
+Alexei looked absentmindedly at the paper in his hands, the words in front of him showing their correct meaning at times, and at other times being unfamiliar and
+What interrupted this careless reading was the sound of a door opening outside the flat, and the smell of perfume that suddenly dispersed into the room made Alexei sneeze and
+changeFigure:pavel/normal/mouthclosed.png;
+He looked up to find Pavel standing in the doorway of Ivan's flat.
+The man wasn't surprised, just filled with great malice and disgust as he surveyed the overwhelmed Alexei, squinting at his blank face.
+changeFigure:pavel/normal/disgust.png;
+miniAvatar:alyosha/consult/serious.png;
+Pavel:Why are you here?
+miniAvatar:alyosha/consult/normalmouthopen.png;
+Alexei:Ah, Pavel, hello.
+I'm sorry, Ivan was a bit unwell yesterday so I stayed here to look after him for a while, I'll leave when he wakes up.
+Pavel:Ivan what happened to him?
+miniAvatar:alyosha/consult/think.png;
+Alexei:......
+miniAvatar:alyosha/consult/serioustalk.png;
+Has Ivan ever somehow fainted before?
+Pavel:...... Probably has.
+Alexei:He fainted yesterday ......
+Did you know that Ivan originally had a history of mental illness?
+changeFigure:pavel/normal/eyemoved.png;
+Pavel:Oh? ...... Didn't hear that from him.
+Alexei:So has he ever had anything like dizziness, saying he was hallucinating, self-harming behaviour before? ;
+miniAvatar:alyosha/consult/serious.png;
+pavel:......;
+changeFigure:pavel/normal/disgust.png;
+I'm not your brother's bodyguard, I don't know exactly how he is normally.
+I do have to tell you, though, that his mental state in the last two months has certainly been much worse than it used to be.
+miniAvatar:alyosha/consult/sweat.png;
+Alexei:How did this happen ......
+changeFigure:pavel/normal/smile.png;
+Pavel:Any fool can see that, right?
+He's like this because of you, don't you know that?
+miniAvatar:alyosha/consult/sweatshy.png;
+Alexei:...... why ......
+Pavel:Because you're his blood brother, huh?
+You don't know what having a blood relative means to your brother, do you?
+Having a crazy mum, and a dad who looks like a pig.
+A big brother who's a soldier and a prisoner.
+That's why he loves and hates you as his little brother.
+You're his counsellor, aren't you?
+changeFigure:pavel/normal/bigsmile.png;
+Hahaha, you two inbreds can actually do counselling.
+miniAvatar:alyosha/consult/amazed.png;
+Alexei:......
+miniAvatar:alyosha/consult/sweatshy.png;
+Pavel, how did you know ......
+miniAvatar:alyosha/consult/worried.png;
+changeFigure:pavel/normal/smile.png;
+Pavel:I'm guessing... it's not hard, is it?
+After all, you seem to care about him oh so much.
+changeFigure:pavel/normal/bigsmile.png;
+So I guessed right?
+No wonder he's been thinking about you.
+changeFigure:pavel/normal/strangesmile.png;
+I don't care what he used to do.
+But for the last two months he's been quite distracted when he's having sex with me.
+This kind of thing is really caused by your influence.
+miniAvatar:alyosha/consult/sweatshy.png;
+Alexei:Sorry, I still don't quite understand ......
+If it's just because of blood, Ivan he's not so bad ......
+changeFigure:pavel/normal/disgust.png;
+Pavel:Don't you ask me, I'm not obliged to answer your questions...
+Oh, but indeed.
+He's probably trying to pass you off as his fuck-buddy...
+changeFigure:pavel/normal/strangesmile.png;
+He's quite addicted to sex, after all.
+And doing it with you, his own brother, would probably make it even better for him ...... haha.
+It would be a moral transgression for him, after all...
+changeFigure:pavel/normal/smile.png;
+Did he do it with you?
+miniAvatar:alyosha/consult/shytalk.png;
+Alexei:...... I don't know ......
+changeFigure:pavel/normal/bigsmile.png;
+Pavel:No? Looks like it's done, then.
+miniAvatar:alyosha/consult/veryshy.png;
+Hey, hey, hey, hey, you're brothers, don't you know the slightest bit of shame?
+But now that it's just the two of us.
+changeFigure:pavel/normal/smile.png;
+You can say whatever comes to your mind. Ivan won't know.
+Let me ask you, did your brother get you off?
+miniAvatar:alyosha/consult/shytalk.png;
+Alexei:...... Sorry Pavel, I don't know anything ......
+miniAvatar:none;
+changeBg:none;
+changeFigure:none;
+:Pavel looked closer at Alexei with interest, but Alexei still responded to him with shameful silence.
+The verbal provocateur instantly feeling occupied on the high ground of a position of power, and therefore entitled to master the dignity of the party being scrutinised and informed of the secret, the
+Pavel stepped forward and forced Alexei back into a corner of the parlour wall.
+Huddled in the corner, Alexei stared at the smiling Pavel in panic and unease, feeling the other man's hand caressing down his shirt and finally into the waist of his trousers.
+choose:Full Resistance:4.2.1.txt|Submissive:4.2.2.txt;

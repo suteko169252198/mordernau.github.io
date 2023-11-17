@@ -1,0 +1,93 @@
+intro: This work has absolutely no connection to real individuals or organizations, is completely unrelated to real counseling, real psychology, mental illness, or psychiatry.
+intro: This work contains explicit content. Minors, please voluntarily exit the game.
+intro: 1960s United States;
+intro: Alyosha Fyodorovich Karamazov;
+intro: This 23-year-old young man is a newly enrolled counselor studying for a master's degree in psychology in Utah, United States.
+intro: Having just finished his end-of-term report last night after an all-nighter, he is now resting.
+miniAvatar:alyosha/naked/normal.png;
+changeBg:alyoshabedroom.jpg;
+Alyosha:Ah, it seems like I overslept today;
+(Looking at the alarm clock on the bedside);
+miniAvatar:alyosha/naked/mouthopen.png;
+Oh no, is it already nine o'clock!?
+I have to submit the report to my mentor quickly...
+miniAvatar:alyosha/sweater/normal.png;
+intro: Taking advantage of the fact that the flow of people has not yet increased, Alyosha arrived at the school amidst the sound of the bell;
+changeBg:schoolabbey.jpg -next;
+Zosima: Good morning, Alyosha;
+changeFigure:zossima/NOrmalspeak.png -right -next;
+miniAvatar:alyosha/sweater/speak.png;
+changeFigure:zossima/NOrmal.png -right -next;
+Alyosha: Good morning, Professor Zosima.
+This is my report for this semester. Please take a look.
+miniAvatar:alyosha/sweater/normal.png;
+Zosima: (Takes the report);
+changeFigure:zossima/NOrmalspeak.png -right -next;
+Okay, you've done well with the other topics this semester. I think after submitting this report, there won't be any need for additional submissions.
+miniAvatar:alyosha/sweater/speaksmile.png;
+changeFigure:zossima/normal.png -right -next;
+Alyosha: I'm also very grateful for your guidance. Completing the topics went smoother than I expected, hehe.
+miniAvatar:alyosha/sweater/normal.png;
+changeFigure:zossima/normalspeak.png -right -next;
+Zosima: I won't review this report here, I'll take a closer look at it later.
+Zosima: I have other things to ask you, Alyosha. By the way, have you found a suitable place for your internship?
+Didn't you go to the hospital affiliated with our school for your internship?
+changeFigure:zossima/normal.png -right -next;
+miniAvatar:alyosha/sweater/speak.png;
+Alyosha: Ah, sorry! Due to scheduling conflicts with the course, I didn't participate in the internship arranged by the school. I'm planning to try finding a project from external sources...
+changeFigure:zossima/normalspeak.png -right -next;
+miniAvatar:alyosha/sweater/normal.png;
+Zosima: Is that so...
+Zosima: I happen to have a counseling request from a visitor that can be counted as your internship project. Are you willing to take it?
+changeFigure:zossima/normal.png -right -next;
+miniAvatar:alyosha/sweater/speak.png;
+Alyosha: If it's recommended by you, I don't have any reason to refuse.
+changeFigure:zossima/normalspeak.png -right -next;
+Zosima: That's great. Actually, I wanted to tell you earlier, Alyosha. It's just that you seemed very busy recently, so I'm asking now.
+Zosima: And this visitor specifically requested you for counseling.
+miniAvatar:alyosha/sweater/amazed.png;
+Alyosha: !?
+miniAvatar:alyosha/sweater/worried.png;
+Alyosha: Professor Zosima, I wonder who would specifically ask for me to counsel them...
+Alyosha: I've only switched to studying psychology for less than two years...
+Alyosha: Although the internship is very important to me, if it's such a cherished request, my practical experience is still so lacking... Wouldn't that be inappropriate?
+Alyosha: I'm concerned that it might have a negative impact on the visitor. In my personal opinion, they should seek counseling from someone more professional...
+changeFigure:zossima/normalsmile.png -right -next;
+Zosima: Haha, Alyosha, I was a bit surprised when I first heard this news.
+Zosima: But I have already met with the visitor, and we have had a preliminary conversation.
+miniAvatar:alyosha/sweater/amazed.png;
+Alyosha: Ah, really, you've already met with them?!
+changeFigure:zossima/normalsmile.png -right -next;
+Zosima: I have a preliminary understanding of the visitor, and I think you can handle this. I have discussed this with other teachers, and we all think you are suitable.
+Zosima: I know you may be worried, don't be too modest, Alyosha. I believe in your abilities, and I hope you can try more.
+miniAvatar:alyosha/sweater/worried.png;
+Alyosha:...
+miniAvatar:alyosha/sweater/speak.png;
+Alyosha:...Since you said it's okay, then alright, I'm willing to take on this visitor.
+miniAvatar:alyosha/sweater/normal.png;
+changeFigure: zossima/normalsmile.png -right -next;
+Zosima: That's great, so I'll pass on the information about the visitor to you later. You can negotiate the time for the first consultation, and during the process, communicate with me at any time. I'll be supervising you this time.
+miniAvatar:alyosha/sweater/speak.png;
+Alyosha: Okay. Thank you, Professor Zosima. Please allow me to ask one more question, who exactly is this visitor?
+changeFigure:zossima/normalspeak.png -right -next;
+Zosima: You'll know after reading the information, Alyosha. Please allow me not to reveal too much to you. I hope you can learn to conduct this counseling yourself, including the preparation before counseling.
+miniAvatar:alyosha/sweater/smile.png;
+Alyosha:...Alright, alright, I'll do my best, Professor Zosima.
+changeBg:none;
+changeFigure: -right;
+intro:... | After the conversation, Zosima handed the visitor's materials to Alyosha. | While reading the materials, Alyosha roughly understood the information about the visitor...
+miniAvatar:alyosha/sweater/think.png;
+Alyosha: ...Name, Ivan Fyodorovich Karamazov, isn't this my biological brother...
+Alyosha: I remember counselors aren't supposed to counsel immediate family members...
+Alyosha: But I haven't seen this brother in a long time... We were separated when I was very young, so my memories aren't deep...
+Alyosha: But maybe because of this reason, Professor Zosima specifically assigned this counseling to me...
+Alyosha: Yale University, a master's in basic physics, started a Ph.D. program two years ago, but the progress has halted. Since his father's accidental death a year ago, signs of post-traumatic stress disorder have appeared. However, over the last three months, his condition has severely worsened, leading to depression and mania, rendering him unable to complete his studies...
+Alyosha: According to him, "I see the phantom of a dead person every day"...
+Alyosha: Poor Ivan...
+miniAvatar:alyosha/sweater/thinkover.png;
+Alyosha: But with just this information, it's hard to discern much. I'll need to start from the preliminary interview...
+intro: Having gained a brief understanding of the visitor's information, Alyosha began preparing for the counseling content.
+intro: Under Zosima's coordination and communication, Ivan's school allowed for the first counseling session. Shortly after, the scheduled counseling date arrived.
+miniAvatar:alyosha/consult/normal.png;
+Alyosha: Please have a seat;
+changeScene:1.txt

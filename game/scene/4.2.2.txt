@@ -1,0 +1,48 @@
+changeFigure:none;
+changeBg:illustration/invade.jpg;
+Pavel:I suggest you hold still, little counsellor.
+I'm still too dirty for this, so I haven't done much with my hands for your brother.
+You can hear me out with enjoyment.
+If your reaction satisfies me, I won't tell a soul.
+You know, even a rumour like this is enough to ruin a person's reputation.
+Your brother used to have a lot of bad habits, but he hasn't touched them since he was caught by the school.
+So, I can confirm that it was your presence that replaced those addictive things.
+You're the source of his recent symptoms.
+And yeah, you seem to be dragging him back to that thing again.
+You, Ivan's brother, don't know anything about your father's death, do you?
+For your information, I happen to have been a witness to that event.
+In your brother's mind he's the one who killed his dad.
+After all, he did know that his father was old and a heavy drinker.
+After all, he knew his father was old and drunk, and that he had to drink and have fun.
+Once he broke his head at home.
+Your brother was sorry the old man didn't die.
+I know he wanted his father dead for years.
+But he alone can not stand this kind of thing, so to take you to continue to suffer his torture ahahahahahaha.
+You are his younger brother, not to say that you can understand him, certainly will have the same idea as him.
+Hope this pig dog worse than the father died of the idea?
+changeBg:none;
+:Pavel's fingers expertly slipped into Alexei's tightly closed entrance, the feeling of the cold fingers invading it caused him to wince uncomfortably, Alexei clenched his teeth and held his cry of surprise in his mouth, Pavel seemed to be extremely pleased with this look of distress on his face, and so the excitement of the speech grew.
+Pavel:It does seem to me that he is, indeed, to blame for this affair with his father.
+After all, having a son who hates himself around, being an old man is always bad luck one day, right?
+Do you think a simple psychological counselling can save your brother? In my opinion, you psychologists are worse than theologians.
+He might even be more receptive to you if you simply slept with him. After all, that guy doesn't recognise anyone in bed, as long as you can fuck him unconscious.
+He'll just continue to hurt himself and then look like he's dying to beg you for mercy when you get desperate, that's just the way he is. Just torturing everyone around him... Your brother is hopeless in that regard... ah...
+:Pavel's fingers dug deeper without mercy, squeezing heavily as if to remove the soft flesh of those depths, 
+It was really hard to call this dry torture any kind of pleasure, and the tortured counsellor couldn't support herself and had to lean it all the way against the living room wall.
+Pavel:Don't move, that's a good boy, don't you want to keep meddling in your brother's affairs, I suggest that it would be better for you to do nothing right now, or you cut off your dealings with him so that neither you nor he will have to suffer from each other's torment. Weigh it up yourself, otherwise, it won't end well for you or your brother yet.
+: Pavel withdrew his fingers quickly from Alexei, who was already a little wet, and picked up a napkin from the table and skimmed it in disgust.
+Alexei collapsed to the floor, Pavel's sudden withdrawal causing him to shudder one last time.
+Although Alexei had endeavoured to repress his voice throughout the process, the often intolerable torture had caused him to gasp deeply in the course of it.
+The sounds no doubt disturbed those resting in the bedroom, and almost the next instant that the two men in the living room confronted each other in silence, Ivan stumbled out of the bedroom and
+changeFigure:Ivan/onlyshirt/smile.png;
+changeBg:morningIvanlivingroom.jpg;
+Ivan:Alyosha! Sorry you had to look after me last night ......
+changeFigure:Ivan/onlyshirt/angry.png;
+Sxoljakov ......
+Why are you here?
+changeFigure:pavel/normal/strangesmile.png;
+Pavel:Ah, nothing much, we just had a friendly exchange, do you want to hear what your brother has to say?
+changeFigure:Ivan/onlyshirt/lookangry.png;
+Ivan:Alyosha, don't listen to him.
+What did he do? Tell me.
+choose:Tell Ivan all about it:4.2.2.1.txt|Hide:4.2.2.2.txt;

@@ -1,0 +1,80 @@
+:After receiving that strange phone call, Alexei went forward to report to his mentor about today's counseling ;)
+changeBg:meetingroom.jpg;
+changeFigure:zossima/hansuprenzhenzhengshi.png;
+miniAvatar:alyosha/consult/worried.png;
+Zossima:I've gotten word from the staff at Ivan's school, and have gone to check on Ivan's condition, and I think he's in good condition.
+I spoke to the doctor at his school and he may have passed out during the counseling session due to irritation and some withdrawal effects from smoking and drinking.
+He'll probably need to rest for a couple of days and his school needs to make sure he's okay again, but I think they'll continue counseling in about a week or so.
+Alexei:Great! That puts my mind at ease ......
+As well as if I may say one more thing, Ivan he's in a coma in this condition and I don't think it's something I can fix .......
+changeFigure:zossima/handsupserious.png;
+Zossima:I know that there are some medicinal aids on the side of Ivantha's school, but they're not very effective. ;
+changeFigure:zossima/handsup/normal.png;
+Aside from the information you reported about the visitor fainting, did the counseling go well, Alyosha? ;
+miniAvatar:alyosha/consult/closedeyeworried.png;
+Alexei:......
+Ivan he recounted some of the reasons why he avoided the questions this time around.
+but our conversation was still centered around the edges of the issues.
+He fainted when I tried to go deeper.
+Mentor Zosima, I don't think it's a question of whether it went well or not.
+I'm scared ......
+changeFigure:zossima/taishouthink.png;
+miniAvatar:alyosha/consult/worried.png;
+zossima:......
+changeFigure:zossima/taishouspeaknormal.png;
+It's a common thing in counseling, but I've really never seen you stumped like this one before.
+Alyosha.
+So what are you afraid of?
+changeFigure:zossima/handsup/normal.png;
+miniAvatar:alyosha/consult/closedeyeworried.png;
+Alexei:zossima mentor, I'm sorry, ;
+It's not that I'm overly self-effacing.
+It's that I really don't have the courage, perhaps to face the same past and childhood as him.
+Maybe it's because I don't want to face his current illness, the feeling that makes me strange and cold ......
+I am most afraid that my shyness and immaturity will harm him forever ......
+changeFigure:zossima/hansuprenzhenzhengshi.png;
+Zossima:Alyosha, do you know that every time I met with Ivan, he was very calm and modest, courteous and polite, phrasing his moves formally and undoubtedly as if he was hiding from the detection of others. ;
+But I always had the feeling that he wasn't as calm inside as he appeared to be.
+Perhaps it was the look in his eyes, a look of constant spiritual suffering, which I used to see on the faces of the women who came to the convent for confession.
+I don't think Ivan was willing to share these things with me, and he wouldn't let me see them.
+So no matter what angle I communicate with him from, he chooses to hide the inner crux.
+He is only willing to show these things in front of people who share the same traits as you.
+Since you asked asked me.
+changeFigure:zossima/taishouweixiao.png;
+Well, Alyosha, I'd like to ask the same thing.
+Why are you still insisting on weekly meetings with him? You actually had a reason to propose stopping halfway through.
+changeFigure:zossima/handsup/normal.png;
+miniAvatar:alyosha/consult/panic.png;
+Alexei:Mentor, you don't have to joke, I can't just leave my visitors behind ......
+changeFigure:zossima/handsupsmile.png;
+Zossima:So do you still want to help him now?
+Alexei:Of course, no one would want their visitor to have a bad time, right?
+changeFigure:zossima/taishouthink.png;
+miniAvatar:alyosha/consult/worried.png;
+Zossima:That's enough, Alyosha.
+Your starting point is still pure, and that's the most important thing. 
+changeFigure:zossima/handsupsmile.png;
+As for the process, I'm sure you'll find a way, and it's already progressing this time, isn't it?
+Alexei:Mentor Zossima, I ......;
+There were moments in the conversation where I did want to run away from the past and face my brother, but you're right, in the end, I guess I really couldn't bring myself to forsake him, I don't know why ......
+I'll find a way, won't I ......
+miniAvatar:alyosha/consult/closedeyeworried.png;
+changeFigure:zossima/taishouthink.png;
+Zossima:......
+changeFigure:zossima/taishoushuohua.png; changeFigure:zossima/taishoushuohua.png;
+This may be because of your natural state of mind as a counselor, or it may also be that he is your blood relative as well after all, which is indeed a difficult emotion to part with, but this somewhat absurd and wonderful sounding relationship can guide your path after all as well.
+Anyway, since you're still determined to continue, stick with the quest.
+You may also want to think about it some more during his time off, I think you're currently asking in the right direction, and if a direct pro/con doesn't do the trick, you may want to try using metaphors to gradually approach that topic.
+miniAvatar:alyosha/consult/worried.png;
+Alexei:Well, I'll try to try again next time.
+changeFigure:none;
+changeBg:none;
+miniAvatar:none;
+: In between Ivan's breaks, Alexei also decided to put aside his counseling internship for a while and focus on other things, and the week passed quickly.
+......
+The weekend a week later
+Alexei hurriedly walked out of the church and ran with hasty steps towards the road leading to the city center.
+Ever since Alexei had switched to psychology, he had started to do some free counseling services every two weeks at the community center near where he lived.
+Usually, since there weren't too many people in the counseling, he was able to walk slowly from the church over there after finishing morning prayers and then pick up Mrs. Younger's shift.
+But last week he found out that someone had made an appointment for his free morning counseling this weekend, so today he had to leave halfway through morning prayers in a hurry to get to the community center.
+changeScene:3.0.txt

@@ -1,0 +1,18 @@
+miniAvatar:alyosha/windcoat/sadeyeclosed.png;
+Alexei:Sorry, Ivan.
+changeFigure:Ivan/costume/normal.png;
+Ivan:......
+changeFigure:Ivan/costume/smilemouthopen.png;
+Alexei, you did the right thing, and I respect your choice.
+So let us part on this day, here.
+changeFigure:Ivan/costume/closedsmile.png;
+We won't see each other again ......
+changeFigure:none;
+miniAvatar:none;
+changeBg:none;
+:It wasn't long before Alexei moved on from his mentor's grief, and as far as internship counselling was concerned, he'd already found another suitable project at the community centre, the
+His brother had kept his word and had not reappeared, and his family's past could thus be put completely out of his mind for the time being, without having to think about it.
+Perhaps at some point in the future, Alexei would come to regret the decision that had been made that
+But with the day being so sunny, it was another day to spend in peace.
+end.
+end;

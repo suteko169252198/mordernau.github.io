@@ -1,0 +1,134 @@
+changeBg:alyoshalivingroom.jpg;
+:After finishing his counselling, Alexei returned to his residence ......
+Alexei was sorting through his papers and thinking about how he was going to report this to his mentor, Zosima.
+Due to ill health, his mentor no longer worked at such late hours.
+miniAvatar:alyosha/consult/think.png;
+Alexei:If it's going to be reported up, then should that incident be hidden or not ......
+:Just as he was thinking about it, the phone rang again, and Alexei picked it up worriedly. ;
+miniAvatar:alyosha/consult/serioustalk.png;
+Alexei:Hello, what can I do for you?
+??? :Sorry to bother you so late ......
+I'm not feeling too good about my head ...... I'm outside right now ......
+miniAvatar:alyosha/consult/panic.png;
+Alexei:!!!!
+(That voice, it's Ivan!)
+Duty officer they didn't send you back?
+Where are you now.
+How are you feeling right now?
+Ivan?
+Ivan:I'll give you the address and postcode, I'm in a phone box ...... I might have to bother you tonight ......
+But ......
+(Ivan sent the address of his residence and where he is staying now)
+miniAvatar:alyosha/consult/shout.png;
+Alexei:Ivan! Don't move, if you feel bad, lie down as smoothly as you can, I'll be right over, don't hang up!
+miniAvatar:none;
+:Alexei rushed to the address written on the SMS and found Ivan lying on his back in that phone booth, cold sweat breaking out layer by layer on his forehead, his lips trembling uncontrollably as he breathed hard. ;
+changeBg:telephonebooth.jpg;
+changeBg:illustration/accident2.jpg;
+Alexei:Ivan, Ivan!
+:Ivan's head gently rubbed Alexei's hand in response
+Alexei: (great, seems to be conscious)
+changeBg:telephonebooth.jpg;
+miniAvatar:alyosha/windcoat/sweat.png;
+Drink some water first, Ivan.
+miniAvatar:alyosha/windcoat/sweatspeak.png;
+I'll get a cab to take you back in a minute, hang in there a little bit!
+changeBg:none;
+miniAvatar:none;
+:On the road, Ivan's condition gradually improved, 
+This was probably due to the warmth of the car and leaning on Alexei to feel the cosy temperature.
+Alexei finally got Ivan back to where he was living ......
+changeBg:Ivanlivingroom.jpg;
+miniAvatar:alyosha/windcoat/sweat.png;
+miniAvatar:alyosha/windcoat/serioussweat.png;
+Alexei:Ivan, is your head still hurting?
+changeFigure:Ivan/onlyshirt/mouthopen.png;
+Ivan:Much better than just now, please send me back.
+miniAvatar:alyosha/windcoat/smile.png;
+Alexei:Well, but given your current condition, I think I'm going to have to stay with you for a little while longer... I'll leave when you're asleep...
+Until then, do you want to take a shower first, it will ease your headache a little, do you still need me to hold you up?
+Ivan:No, I'll be fine on my own.
+miniAvatar:alyosha/windcoat/serioussweat.png;
+Alexei:No, I'm not comfortable with that.
+changeFigure:Ivan/onlyshirt/mouthclose.png;
+Ivan:......
+miniAvatar:alyosha/windcoat/eyemoved.png;
+Alexei:......
+miniAvatar:alyosha/windcoat/sweatspeak.png;
+Then I'll have to at least watch you change your clothes down, I'll be at the door, call me anytime you have any problems.
+Ivan:......
+changeFigure:Ivan/onlyshirt/mouthopen.png;
+Well, if you want ......
+miniAvatar:none;
+changeFigure:-next;
+changeBg:;.
+:Alexei took off his jacket and pulled the papers he hadn't finished organising out of his bag and took a seat in the bathroom doorway.
+Ivan, on the other hand, stepped into the washroom, which was not spacious for a single person in the school's apartments, but was kept reasonably tidy by the room's owner.
+The chequered tiled floor had few water spots and stains, and the various amenities were set up in a simple and complete manner though, he took off his cold sweat soaked shirt in front of the bathtub, and casually threw it on the shelf hanging on the wall, and then cleaned his forehead with cold water in front of the washbasin ......
+The sound of water gradually came from the bathroom and
+Five minutes later ......
+Alexei looked up from his paperwork as an unearthly sound came from behind the door of the washroom, like the muffled sound of a human body falling to the floor along with a series of objects.
+Alexei, who was worried, walked quickly to the door of the washroom and, not daring to slow down, immediately turned the knob ......;
+......;
+changeBg:illustration/accident.jpg;
+:Behind the door presented the spectacle of cups strewn about in front of the water-table, and his visitor fallen on the floor, the
+Both wrists were covered with a dozen or so thin scratches, tiny beads of blood oozing from each crimson slit, while the hands driven by the wrists were pointing the blades of their knives at the body's abdomen, where several slashes of varying depths had been poked out, ;and
+And the trembling tip of the blade was hesitating to make those marks widen and deepen again, and Ivan's eyes were rounded, but he couldn't feel Alexei's horrified gaze. ;
+miniAvatar:alyosha/consultglassesoff/suprised.png;
+Alexei:Ivan! Please stop, you don't know what you're doing! 
+miniAvatar:none;
+:Alexei rushes to Ivan's side and holds his knife-wielding hand.
+changeBg:washroom.jpg;
+Ivan:Alyosha.
+Forgive me.
+And please don't stop me.
+I'm only regretting dragging you into this.
+miniAvatar:alyosha/consultglassesoff/tears.png;
+Alexei:Ivan, please. Please.
+The blood you shed won't stop this.
+I won't tell anyone, and I don't hold it against you.
+miniAvatar:alyosha/consultglassesoff/worried.png;
+Ivan:Nothing to do with anyone else, just you.
+You shouldn't have been involved in this ......
+I'm the one who caused all this.
+Please leave now.
+miniAvatar:none;.
+:As if desperate to prove his words, Ivan grabbed the knife and stabbed himself in the chest.
+But Alexei acted faster than he could think, his right hand quickly gripping the hilt of the knife in Ivan's hand while his other hand blocked the blade.
+The knife cut the palm of Alexei's left hand, but luckily it only left a light bruise.
+miniAvatar:alyosha/consultglassesoff/tears.png;
+Alexei:Ivan.
+That and I'm going to push things in a serious direction,
+miniAvatar:alyosha/consultglassesoff/suprised.png;
+You can't think that one person can do it all.
+That's why I can't let you go now.
+Leave it to me, you'll be fine.
+miniAvatar:none; ::Alexei's
+Alexei's gentleness and firmness caused the already delirious Ivan to release his grip on the hilt of the blade, leaning forward to fall onto Alexei's close shoulder, finally handing over his wounded body to his brother.
+changeBg:illustration/accident1.jpg;
+Alexei gently lifted Ivan's arm with his hand and examined his bruised upper body, and after he was convinced that Ivan hadn't inflicted too much damage on himself, he stood up and walked out of the bathroom with him in his arms.
+Alexei settled his brother on the small couch in the living room and covered him with his coat.
+changeBg:Ivanlivingroom.jpg;
+miniAvatar:alyosha/consult/serioustalk.png;
+Alexei:It's okay, your wound isn't too bad, I'll go find some alcohol and treat it for you, don't move anymore, it's not too bad but it still hurts to move, right, just be good and wait here until I get back, okay?
+miniAvatar:none;
+:Perhaps with his intuition about his brother's habits, Alexei returned to the living room after finding the items he needed without any trouble.
+He was relieved to see that Ivan was quietly curled up in the sofa with his eyes closed, and he let Ivan's back rest against the arm of the narrow sofa so that his brother could sit comfortably in his lap.
+An iodine-soaked cotton ball rubbed over Ivan's wound, but Alexei's warm embrace and reassuring scent stifled the sharp pain promptly and effectively.
+Ivan fell asleep in Alexei's arms, all the bloodstains cleared and the wound disinfected and bandaged, and Alexei painstakingly carried his brother back to his bedroom, tucking the covers back on
+changeBg:ivanbedroom.jpg;
+It wasn't until he heard his brother's deep breathing that Alexei was sure his visitor had settled into a peaceful slumber.
+miniAvatar:alyosha/consult/think.png;
+Alexei:It's probably safe to leave now...
+miniAvatar:none;
+:Alyosha thought so, but then he thought about his brother's not-so-savoury condition, and how maybe he'd have another attack.
+miniAvatar:alyosha/consult/closedeyeworried.png;
+Alexei:...... Then it's just a matter of staying here at Ivan's place for the night.
+miniAvatar:none;
+:Alexei removed his shirt and walked barefoot to the bed, gently lifting the covers and laying down next to his brother, wrapping his arms around Ivan's back, trying to hold him in his arms... 
+changeBg:none;
+Whether or not Ivan's self-murdering behaviour was influenced by him, although it is not uncommon to have a visitor show psychological or behavioural resistance in the course of counselling.
+But this situation was well beyond what he could handle, perhaps it was indeed his own words that had influenced him to take things in a direction that was hard to stop, or bad.
+Alexei lay in his bed, worried and thoughtful, until he heard the sound of Ivan's peaceful breathing in his arms, and only then did he let go of his worries a little, and fell asleep with his brother.
+changeBg:morningivanbedroom.jpg;
+changeScene:4.2.0.0.txt

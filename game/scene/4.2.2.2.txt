@@ -1,0 +1,23 @@
+miniAvatar:alyosha/consult/closedeyeworried.png;
+Alexei:Ivan, I'm fine ......
+......
+miniAvatar:none;
+:Alexei got up from the ground and picked up his bag as the two watched. ;
+miniAvatar:alyosha/consult/closedeyeworried.png;
+Alexei:Ivan, I'm glad to see you're okay.
+I'll be off then ......
+I'll tell my tutor to cancel this consultation.
+It's been hard on you ......
+:Alexei's eyes did not look directly at Ivan who was facing him, he bowed low to his brother and walked out the door at a quick pace ;)
+miniAvatar:none;
+changeFigure:Ivan/onlyshirt/cryout.png;
+Ivan:Alexei, wait! ;
+changeFigure:pavel/normal/smile.png;
+Pavel:Hey, hey, Ivan, did you forget about me?
+changeFigure:pavel/normal/strangesmile.png;
+You still have things unexplained, don't you ......;
+changeBg:none;
+changeFigure:none;
+:Pavel stopped Ivan, who was trying to catch up to him, and the two stopped in front of Ivan's flat. Pavel's interception gave Alexei enough time to escape, and he descended the stairs without looking back. ;
+changeBg:school.jpg;
+changeScene:5.1.txt

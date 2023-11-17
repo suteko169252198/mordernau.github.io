@@ -1,0 +1,22 @@
+changeFigure:none;
+:Told Ivan the truth ......
+Pavel listened with interest the entire time, and when Alexei finished his narrative, he wasn't ready to refute it, but just looked provocatively towards Ivan.
+Ivan stepped forward in a rage and swung his hand at him, but Pavel bent down in time to avoid it, and then swung a punch that landed hard on Ivan's stomach.
+changeFigure:pavel/normal/strangesmile.png;
+Pavel:Unexpectedly strong ah ...... little counsellor.
+changeFigure:none;
+:Pavel didn't look at Ivan, who was already lying on the ground covering his stomach, but just walked quickly to Alexei and
+changeBg:none;.
+His ringed left hand swiftly slammed towards Alexei's neck and Alexei lost consciousness.
+When they woke up again, Alexei and Ivan were in a darkened room ......
+changeBg:ends/end3.jpg;
+Pavel:You two brothers really love each other ......
+Ah, yes.
+I don't think Ivan has told you yet, little Alyosha.
+He instructed me to kill your father.
+But now it's your turn to make me unhappy.
+Which one of you will die first, and the other will be sadder?
+changeBg:none.
+If your behaviour satisfies me, I'll consider letting you out.
+:end.
+changeBg:none;

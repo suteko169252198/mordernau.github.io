@@ -1,0 +1,112 @@
+:Two weeks later ......
+In the meantime, Alexei waited for feedback from Ivan himself or from Ivan's college, only to be surprised and relieved to find that Ivan had said nothing about what had happened in the counseling room on the first day, and had not acted as out of character as he had in the first session.
+Perhaps out of a fluke, or a decision to carry a guilty conscience towards his visitor, Alexei chose to remain silent about what had happened in the first session.
+: In the course of several subsequent counseling sessions, Alexei carefully probed the boundaries of Ivan's spirit, trying not to show timidity in the counseling process.
+: At the same time, Alexei realized that Ivan continued to avoid the subject of his family, consciously or unconsciously, an attitude that did not surprise Alexei or his supervisor, Zosima.
+:The supervisor prompted him to use various methods to guide Ivan to tell about the hidden thoughts and the details of the visions, and Alexei himself realized that this was an important breakthrough to continue the counseling, so he tried to get him to calmly tell about the specifics of the visions, :And his visitor, who was still avoiding the topic of his family, was not surprised.
+:And his visitor very cleverly brokered with him on the margins of the topics, which only after prudent judgment could Alexei discern to be light on the truth or falsehood of these topics.
+:And so, the time came for their fourth meeting, the
+changeBg:consultingroom.jpg;
+changeFigure:Ivan/shirtoff/normal.png;
+miniAvatar:alyosha/consult/normalmouthopen.png;
+Alexei:this is our fourth consultation.
+Alexei:Ivan, I've learned quite a bit about your recent past during the previous counseling sessions, though you certainly have the freedom to make your own choices regarding your daily life. Still, as your counselor, I would advise you to cut down on your alcohol references, and I'm sure you've been reminded of this on your school's end as well.
+changeFigure:Ivan/shirtoff/normalsmile.png;
+Ivan:Don't worry, thanks to the school's supervision, I haven't quoted alcohol products for a long time in recent months, you don't have to worry about that.
+Alexei:But you still won't go into the details of the symptoms you mentioned in your previous counseling sessions, or the content of your dreams and hallucinations, except to tell me about your own recent situation.
+Ivan, you didn't come here just to have an everyday-like chat with me like this, did you?
+miniAvatar:alyosha/consult/normal.png;
+changeFigure:ivan/shirtoff/normalsmilemouthopen.png;
+Ivan:I know you should be able to tell that you've been seemingly avoiding these topics lately as well.
+Ivan:So, Alyosha, your former visitors, what do they talk about when they come to you?
+miniAvatar:alyosha/consult/normalmouthopen.png;
+Alyosha:I probably haven't told you this yet, you were the first visitor I officially took on for long-term counseling ......
+Though it might be a little bit of a bad idea to reveal this to you.
+But with the exercises I used to do, if the visitor didn't know what to say, we would let him do free association.
+Meaning you can say whatever you want.
+changeFigure:Ivan/shirtoff/normal.png
+Ivan:......
+Anything you want to say?
+I don't think people can say anything though.
+Alexei:It's true, words can't directly convey what we think and feel, and anything conveyed through words creates a residual leakage, ;but at least in this room, you're not saying anything.
+But at least in this room anything you say isn't subject to any condemnation from the mind, and that doesn't mean they'll be ignored, I'll listen carefully to everything you say.
+changeFigure:Ivan/shirtoff/normalmouthopen.png
+miniAvatar:alyosha/consult/normal.png;
+Ivan:Well then, Alexei, but despite that, I don't think everything can be said here yet.
+Did you say your morning prayers today?
+miniAvatar:alyosha/consult/normalmouthopen.png;
+Alexei:I did.
+miniAvatar:alyosha/consult/normal.png;
+Ivan:What's the Orthodox way of doing morning prayers again?
+There is a complicated liturgy, but recitation should be required, and the Nicene Creed is a natural part of it.
+For the Orthodox, saying these prayers and the Creed is a matter of course; you have internalized these words as part of your life.
+For those who are averse to religion, these words are like poison, they are to be avoided.
+But for an ignorant infant who is asked to utter these words, will he care, to say or not to say them according to his own interest, without caring about the role of these words in the context of religion.
+And the same is true of the hearer who is confronted with the words.
+Everyday words are better than hearing nonsense from the desolate spiritual wilderness of man.
+miniAvatar:alyosha/consult/normalmouthopen.png;
+Alexei:But uttering such nonsense is also an important part of the counseling process, and any words are permitted here.
+changeFigure:Ivan/shirtoff/zhoumei.png;
+miniAvatar:alyosha/consult/normal.png;
+Ivan:Even so, then, have you experienced such a time?
+The bitterness that builds up in your heart and you want to talk to someone about it.
+miniAvatar:alyosha/consult/serious.png;
+If it's a stranger, you may be able to pour out a few words, and even if you scare him away, he'll just think he's met a phantom and forget about it the next day.
+If it was someone he cared about, uttering these accumulated words might gain the other person's relief.
+Ivan:But in the next instant, these words clog up one's mouth, making one want to vomit, and one's heart wonders: do I want to dishonor others with these words?
+Speaking these words is a form of torture for others, while not speaking them is simply continuing to chew on the hidden bitterness of these words in one's own mind.
+Perhaps there was a moment when I realized that I could no longer put these things into words
+Because to interpret these things and ideas in words, to put them in front of the listener, is cruelty to the person in front of me, unless I am happy to torture the person in front of me and myself with these words.
+changeFigure:Ivan/shirtoff/normal.png;
+Alexei:So you choose to keep them to yourself?
+Ivan, as you said, these things are kept from others, but also eventually from yourself.
+changeFigure:Ivan/shirtoff/nanshouweixiao.png;
+miniAvatar:alyosha/consult/serious.png;
+Ivan:Let yourself know that it's the least risky thing to do ;
+Is there a true, fully unified self
+It's impossible, isn't it.
+Do you really think that in reality, in human beings, there exists such a characteristic as perfection, complete purity, unadulterated, does such a person exist? Aren't you Orthodox, Alexei? This perfection, this is the realm of God, isn't it?
+Even after baptism, people are dirty. Incredibly dirty.
+Alyosha, what kind of humiliation do you find more pleasant? Spiritual, or physical?
+miniAvatar:alyosha/consult/think.png;
+Alyosha: (again with that look on his face ...... still not willing to go deeper into the topic, but Ivan at least said the reason behind it this time, so maybe go along with what he said); ;)
+miniAvatar:alyosha/consult/serious.png;
+So that's why you won't tell me these things?
+Some people are willing to be tortured, and it's inevitable that they will be tarnished as they walk the earth.
+You can pour out those words all you want.
+changeFigure:Ivan/shirtoff/zhoumeibizui.png;
+Ivan: ......
+Alyosha ......
+Do you still want to do what you did last time?
+changeFigure:Ivan/shirtoff/vomit.png;
+......
+(Vomit ......)
+changeFigure:.
+miniAvatar:alyosha/consult/panic.png;
+alyosha:?
+miniAvatar:alyosha/consult/shout.png;
+Alexei:Ivan?
+miniAvatar:none;
+changeBg:none;
+:Ivan made a dry retching sound in his throat, as if something hard to swallow was lodged in his gullet, leaving him in a state of virtual asphyxiation...
+:When Alexei anxiously threw down the pen and paper he was taking notes with and ran up to check on his condition, he pushed Alexei's hand away and collapsed straight down, face down.
+:Alexei immediately carried Ivan to the couch and probed his nose and heartbeat, then sighed sadly but slightly relieved. ;
+:From the looks of things, Ivan isn't in any serious condition yet. Alexei mused worriedly, this was the second time that Ivan had displayed his severe symptoms, such acute, unexplained fainting spells were not uncommon in psychiatric conditions, but there hadn't been much mention of them on the diagnostic information Ivan had been given.
+Physical diagnosis was not Alexei's area of expertise, and after settling the fainted Ivan on the couch, he immediately opened the door to the counseling room and informed the officer on duty outside.
+changeBg:schoolisel.jpg;
+Officer:We'll take care of getting him back to his apartment, thanks for your hard work today.
+miniAvatar:alyosha/consult/serious.png;
+Alexei:If I may ask more, Ivan, is this common for him?
+Duty Officer:I don't know, but he's usually pretty normal with us... I remember this happening once before, but he was only unconscious for a few minutes briefly that time... maybe a month ago or so?
+Alexei:Thanks for telling me.
+Duty Officer:It's fine, it's our duty after all.
+Alexei:So that's it for today's counseling, please send him back, and when you get to your apartment, you'd better give me a call or send me a text message, I'll also tell Mr. Zosima as soon as I get back, and he'll be in charge of dealing with the aftermath of this matter as well.
+Duty Officer:According to your description and his current condition, he should be fine, I'll let you know what's going on, the next counseling will probably be postponed.
+Alexei:Thank you, and please take care of him.
+miniAvatar:alyosha/consult/serious.png;
+Ah yes, here's the phone number of my residence, here's a copy for you guys, and by the way please bother to give a copy to Ivan as well, and please feel free to let me and Mentor Zosima know if he has any problems as well.
+Anyways make sure you tell us anytime if you have any problems.
+Duty Officer:No problem, I'll let you know if anything happens.
+miniAvatar:none;
+changeBg:alyoshalivingroom.jpg;
+changeScene:2.1.txt

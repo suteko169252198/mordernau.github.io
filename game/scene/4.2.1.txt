@@ -1,0 +1,10 @@
+changeFigure:pavel/normal/dislike.png;
+Pavel:......
+changeFigure:pavel/normal/strangesmile.png;
+Bye.
+Little counsellor.
+You know what's coming.
+changeFigure:none;
+:Although it was just an empty speculation, it also caused a lot of discussion in the community, because it involves the reputation of the school, this matter immediately attracted the attention of the school authorities, although Ivan in the school's investigation repeatedly implied that Alexei should not tell the truth, but out of repentance, Alexei still told all the things.
+Ivan was transferred to a psychiatric hospital for more rigorous and scientific treatment, Alexei was expelled from the school, and his mentor, Zosima, was caught in the middle of a public outcry, with the community condemning him for allowing his next of kin to undergo counselling, and a few days later, Zosima passed away from a serious illness, and Alexei was left devastated, indulging in alcohol and sex as his father once did.
+end;
